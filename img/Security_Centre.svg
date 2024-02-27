@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Background 5</title>
+    <defs>
+        <path d="M12,0 L40,0 C46.627417,-1.21743675e-15 52,5.372583 52,12 L52,40 C52,46.627417 46.627417,52 40,52 L12,52 C5.372583,52 8.11624501e-16,46.627417 0,40 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="path-1"></path>
+        <path d="M12,0 L40,0 C46.627417,-1.21743675e-15 52,5.372583 52,12 L52,40 C52,46.627417 46.627417,52 40,52 L12,52 C5.372583,52 8.11624501e-16,46.627417 0,40 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Background" transform="translate(1.084337, 1.000000)">
+            <g id="mask-2">
+                <mask fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="mask-copy" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="mask" stroke="#949494" stroke-width="1.2" opacity="0.3" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-3"></use>
+            </g>
+            <g id="FNB/reserved/payments" transform="translate(16.341667, 13.541667)" stroke="#009999" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+                <g id="icon">
+                    <path d="M9.75,-1.77635684e-15 C4.875,-1.77635684e-15 3.718,2.62816667 -3.55271368e-15,2.16666667 L-3.55271368e-15,10.4465833 C-3.55271368e-15,14.79075 2.00741667,18.8933333 5.43725,21.5615833 L9.62719541,24.8211314 C9.69942392,24.8773212 9.80057608,24.8773212 9.87280459,24.8211314 L14.06275,21.5615833 L14.06275,21.5615833 C17.4925833,18.8933333 19.5,14.79075 19.5,10.4465833 L19.5,2.16666667 C15.782,2.62816667 14.625,-1.77635684e-15 9.75,-1.77635684e-15 Z" id="Stroke-1"></path>
+                    <path d="M3.75,7.4047219 L3.75,11.0164237 C3.75,13.0336618 4.54133333,14.9452063 5.90866667,16.2361783" id="Stroke-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

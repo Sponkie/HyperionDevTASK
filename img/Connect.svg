@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Background 4</title>
+    <defs>
+        <path d="M12,0 L40,0 C46.627417,-1.21743675e-15 52,5.372583 52,12 L52,40 C52,46.627417 46.627417,52 40,52 L12,52 C5.372583,52 8.11624501e-16,46.627417 0,40 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="path-1"></path>
+        <path d="M12,0 L40,0 C46.627417,-1.21743675e-15 52,5.372583 52,12 L52,40 C52,46.627417 46.627417,52 40,52 L12,52 C5.372583,52 8.11624501e-16,46.627417 0,40 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Background" transform="translate(1.084337, 1.000000)">
+            <g id="mask-2">
+                <mask fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="mask-copy" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="mask" stroke="#949494" stroke-width="1.2" opacity="0.3" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-3"></use>
+            </g>
+            <g id="FNB/reserved/payments" transform="translate(17.000000, 13.000000)" stroke="#009999" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+                <g id="icon">
+                    <path d="M13.1854286,0 C13.5265714,0 13.854,0.132516129 14.0948571,0.369032258 L14.0948571,0.369032258 L17.6237143,3.82535484 C17.8645714,4.06103226 18,4.38058065 18,4.7143871 L18,4.7143871 L18,24.7419355 C18,25.4363871 17.4248571,26 16.7142857,26 L16.7142857,26 L1.28571429,26 C0.576,26 3.55271368e-15,25.4363871 3.55271368e-15,24.7419355 L3.55271368e-15,24.7419355 L3.55271368e-15,1.25806452 C3.55271368e-15,0.563612903 0.576,0 1.28571429,0 L1.28571429,0 Z M13.0333333,11.483871 L4.96666667,11.483871 C4.15633333,11.483871 3.5,12.1700376 3.5,13.0172043 L3.5,21.4505376 C3.5,22.2977043 4.15633333,22.983871 4.96666667,22.983871 L13.0333333,22.983871 C13.8436667,22.983871 14.5,22.2977043 14.5,21.4505376 L14.5,13.0172043 C14.5,12.1700376 13.8436667,11.483871 13.0333333,11.483871 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

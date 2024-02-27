@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Background 8</title>
+    <defs>
+        <path d="M12,0 L40,0 C46.627417,-1.21743675e-15 52,5.372583 52,12 L52,40 C52,46.627417 46.627417,52 40,52 L12,52 C5.372583,52 8.11624501e-16,46.627417 0,40 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="path-1"></path>
+        <path d="M12,0 L40,0 C46.627417,-1.21743675e-15 52,5.372583 52,12 L52,40 C52,46.627417 46.627417,52 40,52 L12,52 C5.372583,52 8.11624501e-16,46.627417 0,40 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Background" transform="translate(0.665460, 1.000000)">
+            <g id="mask-2">
+                <mask fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="mask-copy" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="mask" stroke="#949494" stroke-width="1.2" opacity="0.3" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-3"></use>
+            </g>
+            <g id="FNB/reserved/payments" transform="translate(12.999200, 16.995400)" stroke="#009999" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+                <g id="icon">
+                    <path d="M26,2.6 L26,15.6 C26,17.0352 24.8378,18.2 23.4,18.2 L2.6,18.2 C1.1648,18.2 0,17.0352 0,15.6 L0,2.6 C0,1.1648 1.1648,0 2.6,0 L23.4,0 C24.8378,0 26,1.1648 26,2.6 Z" id="Stroke-1"></path>
+                    <line x1="3.89246" y1="5.22028" x2="22.09246" y2="5.22028" id="Stroke-3"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

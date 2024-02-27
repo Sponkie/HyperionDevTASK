@@ -1,0 +1,171 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.Log {
+  background-color: rgb(0, 168, 145); /* Change background color to turquoise */
+  color: white; /* Change text color to white */
+  border: none; /* Remove border */
+  padding: 10px 20px; /* Add padding for better appearance */
+  cursor: pointer; /* Set cursor to pointer */
+  border-radius: 25px;
+  width: auto;
+  margin-right: 0; /* Shift the button to the right */
+}
+
+.Log:hover {
+  background-color: rgb(0, 168, 145); /* Change background color on hover */
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  margin-right: 100px; /* Shift the navigation content to the left */
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1); /* Add a faint line at the bottom */
+  
+}
+
+.input-container {
+  display: block; /* Display the containers as block elements */
+  margin-bottom: 10px; /* Add margin bottom for spacing between containers */
+}
+
+
+input[type="text"],
+input[type="password"] {
+      width: auto; /* Set input fields to fill the available width */
+      padding: 3px; /* Add padding for better appearance */
+      margin-bottom: 10px; /* Add margin bottom for spacing */
+      border: 1px solid #ccc; /* Add a border for clarity */
+      border-radius: 5px; /* Add border radius for rounded corners */
+      box-sizing: border-box; /* Include padding and border in the width */
+      color: rgba(0, 0, 0, 0.5); /* Set text color to a faint gray */
+      background-color: rgba(226, 226, 226, 0.912);
+  }
+
+.Logo {
+  margin-right: auto; /* Push the logo to the left */
+  margin-left: 100px; /* Shift the logo to the right */
+}
+
+nav a {
+  font-size: 13px;
+  display: inline-block;
+  line-height: 24px;
+  font-weight: 400;
+  color: black;
+  cursor: pointer;
+  padding: 5px 6.7px;
+}
+
+nav img {
+  width: 34px;
+  padding: 5px;
+  margin: auto 7px;
+  cursor: pointer;
+}
+
+.Section1 {
+    display: flex;
+    justify-content: center; /* Horizontally center the links */
+    align-items: center; /* Vertically center the links */
+    flex-wrap: wrap; /* Allow links to wrap onto the next line if needed */
+    margin-top: 5px;
+    margin-bottom: 75px; /* Add margin to create space below Section1 */
+}
+
+.Section1 a {
+        color: black; /* Change text color to black */
+        font-size: smaller; /* Make font size smaller */
+        text-decoration: none; /* Remove underline */
+        margin-right: 5px; /* Add some space between links */
+}
+      
+.Section1 a:not(:last-child)::after {
+        content: "|"; /* Add | character after each link except the last one */
+        margin-left: 5px; /* Add some space between | and the next link */
+}
+
+.Section2 {
+  display: flex;
+  justify-content: space-around; /* Align items at the start of the container */
+  flex-wrap: wrap;
+  cursor: pointer;
+  margin-bottom: 75px; /* Add margin to create space below Section 2 */
+}
+
+.logo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 10px; /* Adjust spacing between rows */
+  margin-right: 10px; /* Adjust spacing between logos */
+}
+
+.logo-container:last-child {
+  margin-right: auto; /* Remove margin for the last logo-container */
+}
+
+.Section2.text {
+  margin-top: 5px; /* Adjust spacing between logo and text */
+  font-size: small; /* Make the font size smaller */
+  text-align: center;
+}
+
+
+.Section3 {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    cursor: pointer;
+}
+
+.image-container {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin-bottom: 40px;
+}
+
+.image-container img {
+  width: 200%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.Banner {
+  width: 400%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.text-overlay {
+  position: absolute;
+  bottom: 50px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: white;
+  padding: 10px;
+  background-color: transparent;
+}
+
+.black-text {
+  color: black; /* Change text color to black */
+}
+
+.Section3.text {
+  font-size: 16px;
+  font-weight: bolder;
+}
+
+

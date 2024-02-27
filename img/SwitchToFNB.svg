@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>SwitchToFNB</title>
+    <g id="SwitchToFNB" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#FFFFFF" x="0" y="0" width="52" height="52" rx="12"></rect>
+        <rect id="Rectangle" stroke="#949494" fill="#FFFFFF" opacity="0.304104033" x="0.5" y="0.5" width="51" height="51" rx="12"></rect>
+        <rect id="Rectangle" fill="#FFFFFF" x="12" y="11" width="31" height="30"></rect>
+        <g id="icons/actions/arrow/step" transform="translate(14.333333, 20.166667)" stroke="#F4791F" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+            <polyline id="Path-57" points="-3.55271368e-15 10.8333333 4.82291667 10.8333333 9.92073568 4.16666667 21.6666667 4.16666667"></polyline>
+            <polyline id="Path-58" points="18.6805556 8.33333333 22.1527778 4.16666667 18.6805556 0"></polyline>
+            <line x1="10" y1="10.8333333" x2="16.6666667" y2="10.8333333" id="Path-59"></line>
+        </g>
+    </g>
+</svg>
